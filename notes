@@ -1,3 +1,24 @@
 Split the code up into logical files or modules. We are going to use an MVC structure
 
 Which means we will split it into Models, Views and Controllers
+
+
+M stands for Model 
+
+(Model is just our data, (the list items on the todolist)) 
+
+e.g. Todo's, Users 
+
+V stands for View 
+
+(What is sent to the user, a view for the todo list)
+
+e.g. todo.ejs account.ejs
+
+C stands for Controller
+
+(Controls certain sections of the app. E.g. it could control the todo-section: it would grab the data from the model from the )
+
+e.g. todoController userController
+
+In our instance it is where the the javascript goes that controlls the to do list e.g. manipulate the data, handle routes etc

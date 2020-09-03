@@ -2,7 +2,6 @@
   "name": "nodetodolist",
   "version": "1.0.0",
   "description": "a short to-do app with Node.js and JQuery",
-  //this is the entry file of your app. You get asked which file you want this to be when you npm init
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +13,7 @@
     "body-parser": "^1.19.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "nodemon": "^2.0.4",
     "save": "^2.4.0"
   }
 }
