@@ -1,0 +1,3 @@
+Split the code up into logical files or modules. We are going to use an MVC structure
+
+Which means we will split it into Models, Views and Controllers
