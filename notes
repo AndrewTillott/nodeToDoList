@@ -22,3 +22,9 @@ C stands for Controller
 e.g. todoController userController
 
 In our instance it is where the the javascript goes that controlls the to do list e.g. manipulate the data, handle routes etc
+
+NoSQL Database
+
+- Alternative to SQL databases
+- Store documents (JSON) in a db instead of tables with rows and columns 
+-Works really well with JS. 
